@@ -1,3 +1,4 @@
+// BRUTE FORCE SOLUTION WILL NOT WORK JUST FOR TESTING CUSTOM TESTCASES
 #include<iostream>
 using namespace std;
 bool ispalin(long long  num)
